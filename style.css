@@ -39,7 +39,7 @@ main{
 .mensaje{
     height: 630px;
     background: #222222;
-    background-image: url("/imagenes/msgLogo1.png");
+    background-image: url("imagenes/msgLogo1.png");
     background-repeat: no-repeat;
     background-position: center;
     /*border-color: #0A3871;*/
