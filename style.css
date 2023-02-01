@@ -176,3 +176,9 @@ main{
     font-size:15px;
    
 }
+
+.copyright {
+    text-align: center;
+    color: #444242;
+    padding:10px
+}
